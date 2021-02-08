@@ -1,0 +1,17 @@
+#header_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: #fff;
+  width: 100%;
+}
+
+#header_container .header__comment {
+  font-family: Noto Sans KR, sans-serif;
+  font-size: 4vw;
+}
