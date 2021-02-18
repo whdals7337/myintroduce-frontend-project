@@ -4,4 +4,5 @@
 
 travis를 통해서 CI&CD를 진행
 
-http://ec2-35-168-161-112.compute-1.amazonaws.com/
+2021-02-18 도메인 설정
+http://wellbell.co.kr/
