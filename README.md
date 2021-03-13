@@ -10,3 +10,11 @@ travis를 통해서 CI&CD를 진행
 http://wellbell.co.kr/
 
 ![image](https://user-images.githubusercontent.com/55545105/109241111-1d3ebb80-781c-11eb-9915-f3a735abe978.png)
+
+2. 화면
+
+2 - 1 대민 페이지 (http://wellbell.co.kr/)
+
+-메인
+
+![메인](https://user-images.githubusercontent.com/55545105/103889366-a5141d80-5129-11eb-967c-a39713632c1e.PNG)
