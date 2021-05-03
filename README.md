@@ -9,11 +9,13 @@ travis를 통해서 CI&CD를 진행
 2021-02-18 도메인 설정
 http://wellbell.co.kr/
 
+2021-05-06 EC2 기간 만료에 따른 서비스 종료
+
 ![image](https://user-images.githubusercontent.com/55545105/109241111-1d3ebb80-781c-11eb-9915-f3a735abe978.png)
 
 2. 화면
 
-2 - 1 대민 페이지 (http://wellbell.co.kr/)
+2 - 1 대민 페이지 (AWS Educate의 EC2 기간 만료로 인해 Frontend 서비스가 종료 되었습니다)
 
 -메인
 
