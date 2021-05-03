@@ -7,7 +7,6 @@ travis를 통해서 CI&CD를 진행
 2021-02-16 - scouter 적용 (apm 도구)
 
 2021-02-18 도메인 설정
-http://wellbell.co.kr/
 
 2021-05-06 EC2 기간 만료에 따른 서비스 종료
 
