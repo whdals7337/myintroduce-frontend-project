@@ -20,5 +20,5 @@ matrix:
           region: ap-northeast-2
           skip_cleanup: true
           acl: private
-          local_dir: before-frontend-deploy
+          local_dir: before-frontend-deploy/build/
           wait-until-deployed: true
