@@ -16,7 +16,7 @@ matrix:
         - provider: s3
           access_key_id: $ACCESS_KEY_ID
           secret_access_key: $SECRET_ACCESS_KEY
-          bucket: myintroduce-springboot-build
+          bucket: wellbell.co.kr
           region: ap-northeast-2
           skip_cleanup: true
           acl: private
